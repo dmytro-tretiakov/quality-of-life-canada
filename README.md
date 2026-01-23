@@ -44,9 +44,9 @@ While the full team report covers all four areas, this repository specifically h
 - **Yu-Shen Ma** (Sense of Meaning and Purpose)
 
 ## Files Included
-- **`/data`** – Raw and cleaned CSV datasets from Statistics Canada
+- **`/data`** – raw and cleaned CSV datasets from Statistics Canada
 - **`/powerbi`** – `future_outlook_histogram.pbix` (Interactive visualization)
 - **`/report`** – `quality_of_life_canada_report.pdf` (Full team report)
 - **`/scripts`** – 8 numbered R scripts containing the full data pipeline and analysis
-- **`README.md`** – Project documentation
+- **`README.md`** – project documentation
 
