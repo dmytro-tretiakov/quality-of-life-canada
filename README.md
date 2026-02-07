@@ -10,7 +10,7 @@ This group project is a comprehensive analysis of Canadian quality of life indic
 3. **Future Outlook (My Focus)**
 4. **Sense of Meaning and Purpose**
 
-While the full team report covers all four areas, this repository specifically highlights the data pipeline and analysis I developed for **Future Outlook**. I built a modular R system and an interactive Power BI visualization to track how future outlook has shifted across provinces and demographics from 2021 to 2025.
+While the full team report covers all four areas, this repository specifically highlights the data pipeline and analysis I developed for **Future Outlook**. I built a modular R system and an interactive Power BI visualization to analyze how future outlook indicators changed across provinces and demographic groups between 2021 and 2025.
 
 ## How to View 
 * **Analysis & Data:** Navigate to the `/scripts` folder to see the R processing steps or the `/data` folder for the datasets. 
